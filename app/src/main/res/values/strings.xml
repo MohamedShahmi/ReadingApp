@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Reading</string>
+    <string name="background_img">bg_img</string>
+    <string name="username_input">Username</string>
+    <string name="user_password">Password</string>
+    <string name="login">Login</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="profile">Profile</string>
+    <string name="category">Category</string>
+    <string name="Novels">Novels</string>
+    <string name="Story_Books">Story_Books</string>
+    <string name="NewsPapers">NewsPapers</string>
+    <string name="click_here_and_read_it">Click here! and read it</string>
+    <string name="Educational_Books">Educational_Books</string>
+    <string name="start">Start</string>
+
+</resources>
